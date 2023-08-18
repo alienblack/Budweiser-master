@@ -1,0 +1,58 @@
+.loginImage {
+    width: 100%;
+    height: 100%;
+    /* background-image: url('../../Assets/bg.jpg'); */
+    background-size: cover;
+    background-position: center center;
+    border-radius: 15px 0 0 15px;
+}
+
+.loginBg {
+    width: auto;
+    height: 110vh;
+    background-image: url('../../Assets/bg.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.contactBack {
+    width: 100%;
+    height: 500px;
+    /* background-image: url('../../Assets/doctor.jpg'); */
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.inputBoxes {
+    padding: 2.5vw;
+    background-color: #E6E6FA;
+    border-radius: 0 20px 20px 0;
+}
+
+.inputBox {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.btnParent {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    width: 70%;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+
+.login {
+    padding: 50px;
+}
+
+/* @media (max-width: 850px) {
+    .contactBack {
+        width: 300px;
+        height: 200px;
+    }
+} */
